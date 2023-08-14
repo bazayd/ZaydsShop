@@ -1,0 +1,77 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body, html {
+    background-color: #faebd7;
+    height: 100%;
+}
+
+
+h1 {
+    color: #D7E6FA;
+    margin: 30px 20px;
+    padding: 10px 15px;
+    font-weight: bold;
+}
+
+li {
+    margin: 20px 20px;
+}
+
+li:hover {
+    text-decoration: underline;
+}
+
+form {
+    margin: 20px 20px;
+}
+
+footer {
+    background-color: #faebd7;
+}
+
+#welcomeNav {
+    font-weight: bold;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+#mainDiv {
+    background-color: #D7E6FA;
+    margin: 40px 40px;
+    padding: 200px 260px;
+}
+
+#myCarousel {
+    margin: 20px 30px;
+}
+
+#welcomeLink {
+    margin: 10px 10px;
+}
+
+#faqHeader {
+    text-align: center;
+    text-decoration: underline;
+    margin-bottom: 0;
+}
+
+#faqAccordion {
+    margin: 30px 30px;
+}
+
+.carousel-item {
+    height:32rem;
+    background-color: #777;
+    color:white;
+    position: relative;
+}
+
+.container {
+    position: absolute;
+    bottom: 0;
+    left:0;
+    right:0;
+    padding-bottom: 50px;
+}
